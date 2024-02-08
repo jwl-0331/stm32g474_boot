@@ -1,0 +1,7 @@
+../src/hw/driver/led.c:38:6:ledInit	1
+../src/hw/driver/led.c:62:6:ledOn	2
+../src/hw/driver/led.c:69:6:ledOff	2
+../src/hw/driver/led.c:76:6:ledToggle	2
+../src/hw/driver/led.c:84:6:gpio_on	1
+../src/hw/driver/led.c:90:6:gpio_off	1
+../src/hw/driver/led.c:97:6:gpio_out_toggle	1

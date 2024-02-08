@@ -1,0 +1,6 @@
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:154:10:FLASH_If_Init	0	static
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:219:10:FLASH_If_Read	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:239:10:FLASH_If_GetStatus	0	static
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:200:10:FLASH_If_Write	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:181:10:FLASH_If_Erase	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_dfu_flash.c:167:10:FLASH_If_DeInit	0	static

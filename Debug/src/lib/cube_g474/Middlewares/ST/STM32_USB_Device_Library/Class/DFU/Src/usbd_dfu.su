@@ -1,0 +1,10 @@
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:473:17:USBD_DFU_GetCfgDesc	0	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:487:16:USBD_DFU_EP0_RxReady	0	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:620:17:USBD_DFU_GetDeviceQualifierDesc	0	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:636:17:USBD_DFU_GetUsrStringDesc	8	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:499:17:USBD_DFU_EP0_TxReady	16	static,ignoring_inline_asm
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:335:16:USBD_DFU_Setup	32	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:302:16:USBD_DFU_DeInit	16	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:254:16:USBD_DFU_Init	8	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:606:16:USBD_DFU_SOF	0	static
+../src/lib/cube_g474/Middlewares/ST/STM32_USB_Device_Library/Class/DFU/Src/usbd_dfu.c:660:9:USBD_DFU_RegisterMedia	0	static

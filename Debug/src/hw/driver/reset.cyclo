@@ -1,0 +1,6 @@
+../src/hw/driver/reset.c:144:6:resetToRunBoot	1
+../src/hw/driver/reset.c:21:6:resetISR	2
+../src/hw/driver/reset.c:35:6:resetInit	4
+../src/hw/driver/reset.c:95:10:resetGetCount	1
+../src/hw/driver/reset.c:100:6:resetToBoot	1
+../src/hw/driver/reset.c:112:6:resetToSystemBoot	2

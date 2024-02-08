@@ -1,0 +1,7 @@
+../src/hw/driver/led.c:38:6:ledInit	40	static
+../src/hw/driver/led.c:62:6:ledOn	0	static
+../src/hw/driver/led.c:69:6:ledOff	0	static
+../src/hw/driver/led.c:76:6:ledToggle	0	static
+../src/hw/driver/led.c:84:6:gpio_on	0	static
+../src/hw/driver/led.c:90:6:gpio_off	0	static
+../src/hw/driver/led.c:97:6:gpio_out_toggle	0	static

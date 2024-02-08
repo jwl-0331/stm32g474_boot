@@ -1,0 +1,8 @@
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:222:11:USBD_DFU_DeviceDescriptor	0	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:235:11:USBD_DFU_LangIDStrDescriptor	0	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:365:13:IntToUnicode	16	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:280:11:USBD_DFU_SerialStrDescriptor	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:267:11:USBD_DFU_ManufacturerStrDescriptor	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:248:11:USBD_DFU_ProductStrDescriptor	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:302:11:USBD_DFU_ConfigStrDescriptor	8	static
+../src/lib/cube_g474/USB_Device/App/usbd_desc.c:321:11:USBD_DFU_InterfaceStrDescriptor	8	static

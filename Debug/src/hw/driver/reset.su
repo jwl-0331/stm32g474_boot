@@ -1,0 +1,6 @@
+../src/hw/driver/reset.c:144:6:resetToRunBoot	8	static,ignoring_inline_asm
+../src/hw/driver/reset.c:21:6:resetISR	8	static
+../src/hw/driver/reset.c:35:6:resetInit	8	static
+../src/hw/driver/reset.c:95:10:resetGetCount	0	static
+../src/hw/driver/reset.c:100:6:resetToBoot	8	static
+../src/hw/driver/reset.c:112:6:resetToSystemBoot	16	static,ignoring_inline_asm
