@@ -18,8 +18,6 @@ bool hwInit(void)
 #ifdef _USE_HW_RESET
   ret &= resetInit();  // 500 ms delay
 #endif
-
-  uartPrintf(_DEF_UART1, "Reset Count : %d\n", resetGetCount());
 #ifdef _USE_HW_RESET
   if (resetGetCount() == 2)
   {
@@ -35,4 +33,3 @@ bool hwInit(void)
 
   return ret;
 }
-

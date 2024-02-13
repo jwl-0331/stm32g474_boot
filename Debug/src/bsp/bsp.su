@@ -2,4 +2,4 @@
 ../src/bsp/bsp.c:43:10:millis	0	static
 ../src/bsp/bsp.c:49:6:SystemClock_Config	88	static
 ../src/bsp/bsp.c:11:6:bspInit	48	static
-../src/bsp/bsp.c:94:6:Error_Handler	0	static
+../src/bsp/bsp.c:112:6:Error_Handler	0	static

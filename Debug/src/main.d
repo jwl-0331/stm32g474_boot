@@ -38,16 +38,12 @@ src/main.o: ../src/main.c ../src/main.h \
  C:/CubeWorspace/stm32g474_boot/src/lib/cube_g474/Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/rtc.h \
  C:/CubeWorspace/stm32g474_boot/src/hw/hw_def.h \
- C:/CubeWorspace/stm32g474_boot/src/common/include/reset.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/led.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/cdc.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/usb.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/uart.h \
  C:/CubeWorspace/stm32g474_boot/src/common/include/button.h \
- C:/CubeWorspace/stm32g474_boot/src/common/include/flash.h \
- C:/CubeWorspace/stm32g474_boot/src/common/include/cli.h \
- C:/CubeWorspace/stm32g474_boot/src/common/include/log.h \
- C:/CubeWorspace/stm32g474_boot/src/common/include/swtimer.h
+ C:/CubeWorspace/stm32g474_boot/src/common/include/flash.h
 ../src/main.h:
 C:/CubeWorspace/stm32g474_boot/src/ap/ap.h:
 C:/CubeWorspace/stm32g474_boot/src/hw/hw.h:
@@ -88,13 +84,9 @@ C:/CubeWorspace/stm32g474_boot/src/lib/cube_g474/Drivers/STM32G4xx_HAL_Driver/In
 C:/CubeWorspace/stm32g474_boot/src/lib/cube_g474/Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_uart_ex.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/rtc.h:
 C:/CubeWorspace/stm32g474_boot/src/hw/hw_def.h:
-C:/CubeWorspace/stm32g474_boot/src/common/include/reset.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/led.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/cdc.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/usb.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/uart.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/button.h:
 C:/CubeWorspace/stm32g474_boot/src/common/include/flash.h:
-C:/CubeWorspace/stm32g474_boot/src/common/include/cli.h:
-C:/CubeWorspace/stm32g474_boot/src/common/include/log.h:
-C:/CubeWorspace/stm32g474_boot/src/common/include/swtimer.h:
